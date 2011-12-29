@@ -25,10 +25,3 @@ geemus (Wesley Beary)
 # fog - Year Two #
 
 * Community Continuity
-
-!SLIDE
-# key points #
-
-* mentor vs maintain
-* fix vs engage
-* issues vs discussions
