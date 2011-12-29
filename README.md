@@ -1,10 +1,9 @@
-# Heroku Showoff Template
+# Maintain Less, Mentor More: Community Building Techniques from Open Source
 
-Showoff is presentation software for hackers.  This template is a basic showoff
-repository with Heroku styling.  It is meant as a starting point for your own
-presentations.
+This is a presentation detailing lessons learned in community building while working on [fog](http://fog.io).
 
-## Advanced Showoff
+# Meta
 
-Check out bgentry's showoff-pusher gem that uses pusher to control your
-presentation in the viewer's browser.
+Released under the [MIT license](http://www.opensource.org/licenses/mit-license.php).
+
+Created by geemus (Wesley Beary)
