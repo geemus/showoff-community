@@ -1,7 +1,3 @@
-!SLIDE
-# Before and After #
-## Lessons Learned ##
-
 !SLIDE bullets incremental
 # Before: Maintainer #
 
@@ -15,17 +11,21 @@
 * Goal: Help Others to Help Themselves
 
 !SLIDE bullets
+# Lesson: #
 # Do Not Fix Your Bugs #
 
 !SLIDE bullets incremental
 # Before: Learning #
 
-* Goal: Explore "cloud"
+* Approach: Hacking
+* Goal: Understand "cloud"
 
 !SLIDE bullets incremental
 # After: Teaching #
 
-* Goal: Teach "cloud"
+* Approach: Advise Hackers
+* Goal: Share "cloud"
 
 !SLIDE bullets
-# Grow Your Network One Lesson at a Time #
+# Lesson: #
+# Sum of Hackers > Hackers #
