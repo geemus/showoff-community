@@ -4,7 +4,7 @@
 * ie What can little old me do?
 
 !SLIDE bullets incremental
-# Psuedo-Intermission #
+# Realize that conversation defines context #
 
 !SLIDE bullets incremental
 # Content is... #
@@ -25,6 +25,7 @@
 # What can I do? #
 
 * Help Others to Help You
+* Consume Less, Collaborate More
 
 !SLIDE
 # You broke it! #
