@@ -1,9 +1,7 @@
 !SLIDE bullets incremental
 # Homework: #
 * Seek Engagement Through Conversation
-* Improve Conversations to Improve Culture
+* Keep the Motivation Flowing
+* Skip Bugs, Fix Misunderstandings
 * Be the Culture You Want to See
-
-!SLIDE
-# Thanks! #
-## Conversations? ##
+* Thanks! Questions?

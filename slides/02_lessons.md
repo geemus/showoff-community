@@ -29,3 +29,32 @@
 !SLIDE bullets
 # Lesson: #
 # Sum of Hackers > Hackers #
+
+!SLIDE bullets incremental
+# But, Engage, then ? #
+
+* Money / LOC == easy
+* Inspirations / LOC == not so much
+
+!SLIDE bullets incremental
+# Key Motivators #
+
+* Autonomy
+* Mastery
+* Purpose
+
+!SLIDE bullets incremental
+# Autonomy #
+
+* Give Help, Not Orders
+
+!SLIDE bullets incremental
+# Mastery #
+
+* Teach and Learn *
+
+!SLIDE bullets incremental
+# Purpose #
+
+* Take Care With Language
+* Broadcast Excitement

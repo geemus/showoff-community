@@ -14,7 +14,7 @@ geemus (Wesley Beary)
 * DIY Deathmarch
 
 !SLIDE bullets incremental
-# fog - Doom and/or Gloom #
+# fog - Year One #
 
 * \+ adoption
 * \+/\- expanding codebase
@@ -25,3 +25,11 @@ geemus (Wesley Beary)
 # fog - Year Two #
 
 * Community Continuity
+
+!SLIDE bullets incremental
+# fog - Year Two #
+
+* \+ community
+* \+ sustainability
+* \+ lessening time requirement
+* = more excitement/less dread
